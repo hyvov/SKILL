@@ -1,0 +1,4 @@
+interface:
+  display_name: "英语知识动画短片"
+  short_description: "制作约四十秒的英语教学动画，配语法图解、动作音效和自然中英文旁白"
+  default_prompt: "用 $english-explainer-video 做一条约 40 秒的英语讲解短片，用两个例句和一张动态图讲明白区别。"
